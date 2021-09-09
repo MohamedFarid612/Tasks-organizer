@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1621083708 source:c:\users\drogo\desktop\projects\c  projects\queues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621149071 source:c:\users\mohamed farid\desktop\queues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621184924 source:c:\users\drogo\desktop\middle 1\queues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621259820 source:c:\users\mohamed farid\desktop\queues(final)_6905_6744\queues(final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1625098850 source:c:\users\mohamed farid\desktop\farid_projects\roundrobin\queues(final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
